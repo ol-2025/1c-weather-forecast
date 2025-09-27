@@ -12,8 +12,8 @@ Weather forecast integration for 1C:Enterprise - OpenWeatherMap API connector
 **Детальная информация**: температура, влажность, скорость ветра, облачность
 **Русскоязычный интерфейс**
 **Безопасное хранение** API ключа
+![Interface screenshot](screenshot.PNG)
 
-![Главное окно обработки](images/screenshot.PNG)
 
  старт
 
