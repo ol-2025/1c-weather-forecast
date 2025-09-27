@@ -13,6 +13,8 @@ Weather forecast integration for 1C:Enterprise - OpenWeatherMap API connector
 **Русскоязычный интерфейс**
 **Безопасное хранение** API ключа
 
+![Главное окно обработки](images/screenshot.PNG)
+
  старт
 
 ### 1. Получение API ключа
